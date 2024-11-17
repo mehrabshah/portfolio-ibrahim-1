@@ -32,13 +32,13 @@ export default function Career() {
 					<article className={career.company}>
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
-								<h3>My Supply Co.</h3>
+								<h3>Qafoor.</h3>
 								<h4>Permanent Full-time</h4>
 								<h4>Apr 2019 - Present · 3 yrs 10 mos</h4>
 								<h5>Vancouver, British Columbia, Canada</h5>
 							</span>
 							<p>
-							My Supply Co. helps Canadians manage mental and physical health with naturally occurring nootropic and adaptogenic products. They carry products with complex attributes, aiming to solve a large variety of personal care needs — this requires an extremely customized and evolving approach to how the store is built and functions.
+							Qafoor. helps Canadians manage mental and physical health with naturally occurring nootropic and adaptogenic products. They carry products with complex attributes, aiming to solve a large variety of personal care needs — this requires an extremely customized and evolving approach to how the store is built and functions.
 							</p>
 						</div>
 						<div className={career.companyAlt}></div>
